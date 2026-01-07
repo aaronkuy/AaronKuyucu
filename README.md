@@ -30,7 +30,7 @@
 ## 👤 Socials
 
 <p align="left">
-  <a href="https://github.com/aaronkuy" target="_blank">
+  <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" />
   </a>
 
