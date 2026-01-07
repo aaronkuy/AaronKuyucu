@@ -21,7 +21,7 @@
 - ⌨️ **Typing Trainer** – Web-App in order to improve typing speed  
 - 📚 **Book Finder** – Book search with API 
 - 📋 **To do list** - Ease the every day for the user 
-- 🤖 **AI mini chat bot** - Plain pendant to prior ChatGPT
+- 🤖 **AI Mini Chat Bot** - Plain pendant to prior ChatGPT
 
 
 
