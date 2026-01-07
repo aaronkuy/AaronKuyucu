@@ -27,7 +27,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaronkuy&show_icons=true)
+## 👤Scoials 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Informatik+Student;Web+Developer;Always+learning)
