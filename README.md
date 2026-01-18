@@ -22,6 +22,7 @@
 - 📚 **Book Finder** – Book search with API 
 - 📋 **To do list** - Ease the every day for the user 
 - 🤖 **AI Mini Chat Bot** - Plain pendant to prior ChatGPT
+- 📝 **Journaling App** - Write down allday experieces/thoughts and the like
 
 
 
