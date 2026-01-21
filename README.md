@@ -25,7 +25,8 @@
 - 📝 **Journaling App** - Write down allday experieces/thoughts and the like
 - 🧮 **Mini Calculator** - Small tool to reckoning with plain numbers
 - 🎵 **Music Player** - Tool to listen to a predetermined list of music
-- 🌡️ **Weather App** - Quick tool to get a short overview about the weather 
+- 🌡️ **Weather App** - Quick tool to get a short overview about the weather
+- 👾 **Tic Tac Toe** - Java Script version of the classic game tic tac toe
 
 
 
