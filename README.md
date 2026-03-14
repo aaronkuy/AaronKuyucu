@@ -13,7 +13,8 @@
 ## 🛠️ Skills
 - HTML, CSS, JavaScript, Swift UI
 - Git & GitHub
-- Basic knowledge: Python / Java 
+- Basic knowledge: Python / Java
+- C
 
 ---
 
