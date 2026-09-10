@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dunkel.png">
-  <img alt="Aaron Kuyucu — Computer Science B.Sc., Web, iOS und KI" src="assets/banner-hell.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dunkel.svg">
+  <img alt="Aaron Kuyucu — Computer Science B.Sc., Web, iOS und KI" src="assets/banner-hell.svg" width="100%">
 </picture>
 
 Ich studiere Informatik und baue Software von der ersten Skizze bis zur
@@ -42,6 +42,11 @@ wenn man sich Mühe gibt.
 Kleine, abgeschlossene Sachen — jede mit einem Zweck, sauberer Oberfläche
 und einer Fassung, die man direkt im Browser ausprobieren kann.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sprachen-dunkel.svg">
+  <img alt="Sprachen: JavaScript 66 %, CSS 22 %, Swift 11 %" src="assets/sprachen-hell.svg" width="700">
+</picture>
+
 | Projekt | Worum es geht | Gebaut mit | |
 | :-- | :-- | :-- | :-- |
 | **[Typing Trainer](https://github.com/aaronkuy/typing-trainer)** | Tippen üben nach dem Vorbild von Monkeytype: Tempo, Trefferquote, ruhige Oberfläche. | JavaScript | [Ausprobieren](https://aaronkuy.github.io/typing-trainer/) |
@@ -74,11 +79,39 @@ und einer Fassung, die man direkt im Browser ausprobieren kann.
 
 <br>
 
-## Kontakt
+## Wo man mich findet
 
-<a href="https://www.linkedin.com/in/aaron-kuyucu-327a71385/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-<a href="https://hexese.com"><b>hexese.com</b></a>
+<p>
+<a href="https://www.linkedin.com/in/aaron-kuyucu-327a71385/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sozial-linkedin-dunkel.svg">
+    <img alt="LinkedIn — aaron-kuyucu" src="assets/sozial-linkedin-hell.svg" height="46">
+  </picture>
+</a>
+<a href="https://github.com/aaronkuy">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sozial-github-dunkel.svg">
+    <img alt="GitHub — aaronkuy" src="assets/sozial-github-hell.svg" height="46">
+  </picture>
+</a>
+<a href="https://instagram.com/aaron.kuy">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sozial-instagram-dunkel.svg">
+    <img alt="Instagram — aaron.kuy" src="assets/sozial-instagram-hell.svg" height="46">
+  </picture>
+</a>
+<a href="https://x.com/AaronKuyucu">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sozial-x-dunkel.svg">
+    <img alt="X — AaronKuyucu" src="assets/sozial-x-hell.svg" height="46">
+  </picture>
+</a>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sozial-discord-dunkel.svg">
+    <img alt="Discord — aaronkuy" src="assets/sozial-discord-hell.svg" height="46">
+  </picture>
+</p>
 
 <br>
 
-<sub>Frankfurt am Main · Deutschland</sub>
+<sub>Frankfurt am Main · Deutschland · <a href="https://hexese.com">hexese.com</a></sub>
