@@ -43,8 +43,8 @@ Kleine, abgeschlossene Sachen — jede mit einem Zweck, sauberer Oberfläche
 und einer Fassung, die man direkt im Browser ausprobieren kann.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/sprachen-dunkel.svg">
-  <img alt="Sprachen: JavaScript 66 %, CSS 22 %, Swift 11 %" src="assets/sprachen-hell.svg" width="700">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sprachen-v2-dunkel.svg">
+  <img alt="Sprachen: JavaScript 66 %, CSS 22 %, Swift 11 %" src="assets/sprachen-v2-hell.svg" width="700">
 </picture>
 
 | Projekt | Worum es geht | Gebaut mit | |
