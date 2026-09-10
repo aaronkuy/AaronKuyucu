@@ -58,9 +58,11 @@ und einer Fassung, die man direkt im Browser ausprobieren kann.
 
 ## Werkzeuge
 
-**Sprachen** JavaScript · TypeScript · Swift · HTML und CSS · Python · Java · C
-**Am Werk** React und Next.js · React Native und Expo · Node.js · Supabase (Postgres, Auth, Edge Functions) · WebGL
-**Drumherum** Git · Figma · statisches Ausliefern über SFTP · Barrierefreiheit und Datenschutz von Anfang an
+| | |
+| :-- | :-- |
+| **Sprachen** | JavaScript · TypeScript · Swift · HTML und CSS · Python · Java · C |
+| **Am Werk** | React und Next.js · React Native und Expo · Node.js · Supabase (Postgres, Auth, Edge Functions) · WebGL |
+| **Drumherum** | Git · Figma · statisches Ausliefern über SFTP · Barrierefreiheit und Datenschutz von Anfang an |
 
 <br>
 
