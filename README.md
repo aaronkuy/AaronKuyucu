@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dunkel.svg">
-  <img alt="Aaron Kuyucu — Computer Science B.Sc., Web, iOS und KI" src="assets/banner-hell.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-v2-dunkel.svg">
+  <img alt="Aaron Kuyucu — Computer Science B.Sc., Web, iOS und KI" src="assets/banner-v2-hell.svg" width="100%">
 </picture>
 
 Ich studiere Informatik und baue Software von der ersten Skizze bis zur
